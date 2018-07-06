@@ -1,0 +1,12 @@
+INFO main com.ebay.factory.PropertyManager - Key = mobileDeviceName  Value = android
+INFO main com.ebay.factory.PropertyManager - Key = deviceName  Value = emulator-5554
+INFO main com.ebay.factory.PropertyManager - Key = platformVersion  Value = 1.6.5
+INFO main com.ebay.factory.PropertyManager - Key = platformName  Value = android
+INFO main com.ebay.factory.PropertyManager - Key = appPackage  Value = appAPKFilePath/com.qualityworkscg.qualityworkssampleandroid
+INFO main com.ebay.factory.PropertyManager - Key = appActivity  Value = .HomeActivity
+INFO main com.ebay.factory.PropertyManager - Key = mobileDeviceName  Value = android
+INFO main com.ebay.factory.PropertyManager - Key = deviceName  Value = emulator-5554
+INFO main com.ebay.factory.PropertyManager - Key = platformVersion  Value = 1.6.5
+INFO main com.ebay.factory.PropertyManager - Key = platformName  Value = android
+INFO main com.ebay.factory.PropertyManager - Key = appPackage  Value = appAPKFilePath/com.qualityworkscg.qualityworkssampleandroid
+INFO main com.ebay.factory.PropertyManager - Key = appActivity  Value = .HomeActivity
